@@ -1,3 +1,3 @@
 # bookish-doodle
 
-This file is the index.  This directory is for testing scripts.
+This directory is for testing scripts.  Omit from search results.
